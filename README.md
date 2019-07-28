@@ -1,15 +1,13 @@
-<ceneter>
+<center>
 <h2>The World's First Live Open-Source Trading Algorithm</h2>    
-</center>     
 
-<h1 align="center">
-  <a href="https://livealgos.com"><img src="original_image.jpg" alt="LiveAlgos.com Logo" Height="200" width="350"></a>
-</h1>
-     
+<a href="https://livealgos.com"><img src="original_image.jpg" alt="LiveAlgos.com Logo" Height="200" width="350"></a>
         
-               <h5 class="blue-highlight  wow slideInUp"><center>Use our money to test your automated stock/FX/crypto trading strategies. All changes users make to our Python GitHub code are added to the repo, and then reflected in the live trading account that goes with it. You can also use that same code to trade with your own money. We have spent over 10 years developing automated trading strategies, and are open sourcing all of our programming (meaning it is free for anybody to use) in the hopes that users will help improve it. Here is some of what we have learned so far from doing automated trading:</center></h5>
+Use our money to test your automated stock/FX/crypto trading strategies. All changes users make to our Python GitHub code are added to the repo, and then reflected in the live trading account that goes with it. You can also use that same code to trade with your own money. We have spent over 10 years developing automated trading strategies, and are open sourcing all of our programming (meaning it is free for anybody to use) in the hopes that users will help improve it. Here is some of what we have learned so far from doing automated trading:
 
-                    <ul>
+</center>
+
+<ul>
                         <li>Backtests are great to use for developing strategies but are somewhat meaningless in predicting actual profits. The only way to know how well your strategy works is to trade it live. </li>
                         <li>There are all sorts of issues that come up in live trading which are not reflected accurately in backtesting (or paper trading). For example, even if you do a good job estimating the brokerage fees and the bid/ask spread, they will almost always end up being worse in real trading. Limit orders can help with this slippage in live trading but are almost impossible to backtest because they would almost never get filled on the price the backtester shows.</li>
                         <li>It is very hard to go from backtesting to live trading. Most backtesting systems do not support live trading, at least not without additional programming.  </li>
@@ -19,20 +17,15 @@
                     </ul>
                 </div>
                 
-                <h5 class="sub-title wow slideInUp">There are 2 main ways to improve our existing ML trading algorithm:</h5>
+There are 2 main ways to improve our existing ML trading algorithm:
 
-                    <ol>
-                        <li>Increase the accuracy by trying new machine learning methods. For example, there are always new types of neural networks that could be tested, or new time series prediction libraries that could be used. That similar to how they do it in the contest at <A HREF="http://numer.ai" target="new">Numerai</a>, but the problem with Numerai is that all of the data is anonymous and encrypted. You have no idea what financial instruments and indicators/features you are working with. So if you come up with something good, there is no easy way to apply it to real trading for yourself.  </li>
-                        <li>Add new features to help the ML model learn better. Features can be new technical indicators or a complete strategy that gives buy and sell signals. The ML combines these new indicators and strategies with all of the existing ones, to improve on the model it already has. This is similar to the contests at <A HREF="https://www.kaggle.com/competitions?sortBy=relevance&group=general&search=stock&page=1&pageSize=20" target="new">Kaggle.com</a>, but Kaggle rarely deals with stocks, and when they do it, it is still hard to apply the results to real trading. </li>
-                    </ol>
+<ol>
+<li>Increase the accuracy by trying new machine learning methods. For example, there are always new types of neural networks that could be tested, or new time series prediction libraries that could be used. That similar to how they do it in the contest at <A HREF="http://numer.ai" target="new">Numerai</a>, but the problem with Numerai is that all of the data is anonymous and encrypted. You have no idea what financial instruments and indicators/features you are working with. So if you come up with something good, there is no easy way to apply it to real trading for yourself.  </li>
+<li>Add new features to help the ML model learn better. Features can be new technical indicators or a complete strategy that gives buy and sell signals. The ML combines these new indicators and strategies with all of the existing ones, to improve on the model it already has. This is similar to the contests at <A HREF="https://www.kaggle.com/competitions?sortBy=relevance&group=general&search=stock&page=1&pageSize=20" target="new">Kaggle.com</a>, but Kaggle rarely deals with stocks, and when they do it, it is still hard to apply the results to real trading. </li>
+</ol>
 
- <div class="container">
-        <div class="row">
-            <div class="col-12 text-left">
-   
-
-                <BR><BR>
-    <h2>What We Have Working So Far</h2>    
+<BR><BR>
+<h2>What We Have Working So Far</h2>    
 <br> 
 <UL>
 <LI>Backtester with stock, FX, and crypto data.</LI>
