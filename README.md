@@ -8,14 +8,14 @@ Use our money to test your automated stock/FX/crypto trading strategies. All cha
 </center>
 
 <ul>
-                        <li>Backtests are great to use for developing strategies but are somewhat meaningless in predicting actual profits. The only way to know how well your strategy works is to trade it live. </li>
-                        <li>There are all sorts of issues that come up in live trading which are not reflected accurately in backtesting (or paper trading). For example, even if you do a good job estimating the brokerage fees and the bid/ask spread, they will almost always end up being worse in real trading. Limit orders can help with this slippage in live trading but are almost impossible to backtest because they would almost never get filled on the price the backtester shows.</li>
-                        <li>It is very hard to go from backtesting to live trading. Most backtesting systems do not support live trading, at least not without additional programming.  </li>
-                        <li>Very few backtesting and trading programs support machine learning (using artificial intelligence to predict the price). They only allow you to create a strategy using the standard list of indicators (moving average, Bollinger bands, RSI, etc.).   </li>
-                        <li>The best way to combine multiple strategies is to use machine learning (ML). ML automatically determines which strategies are best to use at what times, and can be easily retrained with new data. Otherwise, strategies that backtested well may work for a little while and then become old and stop working.</li>
-                        <li>High frequency trading (HFT) is only worth pursuing if you are trading millions of dollars and are willing to spend thousands of dollars a month on quant technologies. This is not something we are interested in doing.</li>
-                    </ul>
-                </div>
+<li>Backtests are great to use for developing strategies but are somewhat meaningless in predicting actual profits. The only way to know how well your strategy works is to trade it live. </li>
+<li>There are all sorts of issues that come up in live trading which are not reflected accurately in backtesting (or paper trading). For example, even if you do a good job estimating the brokerage fees and the bid/ask spread, they will almost always end up being worse in real trading. Limit orders can help with this slippage in live trading but are almost impossible to backtest because they would almost never get filled on the price the backtester shows.</li>
+<li>It is very hard to go from backtesting to live trading. Most backtesting systems do not support live trading, at least not without additional programming.  </li>
+<li>Very few backtesting and trading programs support machine learning (using artificial intelligence to predict the price). They only allow you to create a strategy using the standard list of indicators (moving average, Bollinger bands, RSI, etc.).   </li>
+<li>The best way to combine multiple strategies is to use machine learning (ML). ML automatically determines which strategies are best to use at what times, and can be easily retrained with new data. Otherwise, strategies that backtested well may work for a little while and then become old and stop working.</li>
+<li>High frequency trading (HFT) is only worth pursuing if you are trading millions of dollars and are willing to spend thousands of dollars a month on quant technologies. This is not something we are interested in doing.</li>
+</ul>
+</div>
                 
 There are 2 main ways to improve our existing ML trading algorithm:
 
@@ -24,7 +24,6 @@ There are 2 main ways to improve our existing ML trading algorithm:
 <li>Add new features to help the ML model learn better. Features can be new technical indicators or a complete strategy that gives buy and sell signals. The ML combines these new indicators and strategies with all of the existing ones, to improve on the model it already has. This is similar to the contests at <A HREF="https://www.kaggle.com/competitions?sortBy=relevance&group=general&search=stock&page=1&pageSize=20" target="new">Kaggle.com</a>, but Kaggle rarely deals with stocks, and when they do it, it is still hard to apply the results to real trading. </li>
 </ol>
 
-<BR><BR>
 <h2>What We Have Working So Far</h2>    
 <br> 
 <UL>
