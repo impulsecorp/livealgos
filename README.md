@@ -1,11 +1,11 @@
-<center>
-<h2>The World's First Live Open-Source Trading Algorithm</h2>    
+<h2 align="center">The World's First Live Open-Source Trading Algorithm</h2>    
 
+<p align="center">
 <a href="https://livealgos.com"><img src="original_image.jpg" alt="LiveAlgos.com Logo" Height="200" width="350"></a>
-        
+</P>
+<p align="center">
 Use our money to test your automated stock/FX/crypto trading strategies. All changes users make to our Python GitHub code are added to the repo, and then reflected in the live trading account that goes with it. You can also use that same code to trade with your own money. We have spent over 10 years developing automated trading strategies, and are open sourcing all of our programming (meaning it is free for anybody to use) in the hopes that users will help improve it. Here is some of what we have learned so far from doing automated trading:
-
-</center>
+</p>
 
 <ul>
 <li>Backtests are great to use for developing strategies but are somewhat meaningless in predicting actual profits. The only way to know how well your strategy works is to trade it live. </li>
@@ -40,7 +40,6 @@ There are 2 main ways to improve our existing ML trading algorithm:
 <LI>Coming Soon - Live trading. We have the ability to trade live right now, but we want to make the algorithm more profitable before we do that.</LI>
 </UL>
 
-<BR>
 <h2>Roadmap For The Future</h2>     
 <br>
                                 Suggested improvements for users to try:<BR><BR>
