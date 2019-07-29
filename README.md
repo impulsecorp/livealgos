@@ -185,9 +185,10 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 54. Autoencoders: <a href='https://github.com/hamaadshah/autoencoders_keras/blob/master/Python/autoencoders.ipynb' target="new">https://github.com/hamaadshah/autoencoders_keras/blob/master/Python/autoencoders.ipynb</a> (use the various autoencoders on the 2nd half of the page)<BR>
 55. Use automatic feature engineering using GANs: <a href='https://github.com/hamaadshah/gan_public/blob/master/Python/gan.ipynb' target="new">https://github.com/hamaadshah/gan_public/blob/master/Python/gan.ipynb</a><BR>
 56. Feature Engineering Wrapper (Few): <a href='https://github.com/lacava/few' target="new">https://github.com/lacava/few</a><BR>
-57. LibFM (in Keras) - https://github.com/jfpuget/LibFM_in_Keras - He used this to generate new features in a Kaggle compeition.
-58. Metric Learning - https://github.com/metric-learn/metric-learn. Metric Learning is explained at http://metric-learn.github.io/metric-learn/introduction.html . Also, the code for many more advanced methods are listed at https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning .
-
+57. LibFM (in Keras) - https://github.com/jfpuget/LibFM_in_Keras - He used this to generate new features in a Kaggle compeition.<BR>
+58. Metric Learning - https://github.com/metric-learn/metric-learn. Metric Learning is explained at http://metric-learn.github.io/metric-learn/introduction.html . Also, the code for many more advanced methods are listed at https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning .<BR>
+59. knnFeat - https://github.com/upura/knnFeat - Knn feature extraction.Also: https://github.com/momijiame/gokinjo .<BR>
+60. Surrogate Assisted Feature Extraction (SAFE) https://github.com/ModelOriented/SAFE <BR>
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
 </LI>
