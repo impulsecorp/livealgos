@@ -40,6 +40,22 @@ There are 2 main ways to improve our existing ML trading algorithm:
 <LI>Coming Soon - Live trading. We have the ability to trade live right now, but we want to make the algorithm more profitable before we do that.</LI>
 </UL>
 
+Below are the accuracy results (using classification) on unseen test data using 4 years of hourly EURUSD data, with a 75%/25% train/test split:
+('BaggingClassifier', 0.5044507753853887)
+('DecisionTreeClassifier', 0.4989915412173202)
+('BernoulliNB', 0.5263609141082636)
+('ExtraTreesClassifier', 0.49980348832413685)
+('GaussianNB', 0.5140903999668127)
+('LogisticRegression', 0.5275165208048028)
+('RandomForestClassifier', 0.5082132821719233)
+('AdaBoostClassifier', 0.5284508885900469)
+
+
+<p align="center">
+<img src="eurusd_backtest.jpg" alt="FX backtest results">
+</P>
+
+
 <h2>Roadmap For The Future</h2>     
 <br>
                                 Suggested improvements for users to try:<BR><BR>
