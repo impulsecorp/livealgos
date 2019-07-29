@@ -187,8 +187,11 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 56. Feature Engineering Wrapper (Few): <a href='https://github.com/lacava/few' target="new">https://github.com/lacava/few</a><BR>
 57. LibFM (in Keras) - https://github.com/jfpuget/LibFM_in_Keras - He used this to generate new features in a Kaggle compeition.<BR>
 58. Metric Learning - https://github.com/metric-learn/metric-learn. Metric Learning is explained at http://metric-learn.github.io/metric-learn/introduction.html . Also, the code for many more advanced methods are listed at https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning .<BR>
-59. knnFeat - https://github.com/upura/knnFeat - Knn feature extraction.Also: https://github.com/momijiame/gokinjo .<BR>
-60. Surrogate Assisted Feature Extraction (SAFE) https://github.com/ModelOriented/SAFE <BR>
+59. knnFeat - https://github.com/upura/knnFeat and https://github.com/momijiame/gokinjo - Knn feature extraction.<BR>
+60. Surrogate Assisted Feature Extraction (SAFE) - https://github.com/ModelOriented/SAFE<BR>
+61. Feature Stuff:  https://github.com/hiflyin/Feature-Stuff<BR>
+62. GAN-Keras: https://github.com/hamaadshah/gan_keras - Automatic feature engineering using Generative Adversarial Networks.<BR>
+63. AutoFeat: https://github.com/cod3licious/autofeat<BR> - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
 </LI>
