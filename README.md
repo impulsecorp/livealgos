@@ -50,9 +50,9 @@ Below are the accuracy results (using classification) on unseen test data using 
 ('RandomForestClassifier', 0.5082132821719233)<BR>
 ('AdaBoostClassifier', 0.5284508885900469)<BR>
 <BR>
-
+And here's the backtest results on the unseen test set:<BR>
 <p align="center">
-<a href="https://livealgos.com"><img src="eurusd_backtest.jpg" alt="FX backtest results"></a>
+<img src="eurusd_backtest.png" alt="FX backtest results">
 </P>
 
 <h2>Roadmap For The Future</h2>     
