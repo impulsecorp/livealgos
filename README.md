@@ -40,18 +40,22 @@ There are 2 main ways to improve our existing ML trading algorithm:
 <LI>Coming Soon - Live trading. We have the ability to trade live right now, but we want to make the algorithm more profitable before we do that.</LI>
 </UL>
 
-Below are the accuracy results (using classification) on unseen test data using 4 years of hourly EURUSD data, with a 75%/25% train/test split:<BR>
+Below are the accuracy results (classification) on unseen test data using 4 years of hourly EURUSD data, with a 75%/25% train/test split:<BR>
+('GradientBoostingClassifier', 0.5296564758688427)<BR>
+('AdaBoostClassifier', 0.5284508885900469)<BR>
+('LogisticRegression', 0.5275165208048028)<BR>
+('LinearSVC', 0.526926169397467)<BR>
+('BernoulliNB', 0.5263609141082636)<BR>
+('GaussianNB', 0.5140903999668127)<BR>
 ('BaggingClassifier', 0.5044507753853887)<BR>
 ('DecisionTreeClassifier', 0.4989915412173202)<BR>
-('BernoulliNB', 0.5263609141082636)<BR>
 ('ExtraTreesClassifier', 0.49980348832413685)<BR>
-('GaussianNB', 0.5140903999668127)<BR>
-('LogisticRegression', 0.5275165208048028)<BR>
 ('RandomForestClassifier', 0.5082132821719233)<BR>
-('AdaBoostClassifier', 0.5284508885900469)<BR>
+('KNeighborsClassifier', 0.5005655757938446)<BR>
+('MLPClassifier', 0.5107957755311275)<BR>
 <BR>
-And here's the backtest results on the unseen test set:<BR>
-<p align="center">
+And here's the backtest results (exit trade at the end of each 1 hour bar, no commissions/slippage) on the unseen test set, using XGBoost:<BR>
+<p align="left">
 <img src="eurusd_backtest.png" alt="FX backtest results">
 </P>
 
