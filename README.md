@@ -191,7 +191,7 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 60. Surrogate Assisted Feature Extraction (SAFE) - https://github.com/ModelOriented/SAFE<BR>
 61. Feature Stuff:  https://github.com/hiflyin/Feature-Stuff<BR>
 62. GAN-Keras: https://github.com/hamaadshah/gan_keras - Automatic feature engineering using Generative Adversarial Networks.<BR>
-63. AutoFeat: https://github.com/cod3licious/autofeat<BR> - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
+63. AutoFeat: https://github.com/cod3licious/autofeat - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
 </LI>
