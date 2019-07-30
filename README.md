@@ -48,7 +48,7 @@ Below are the accuracy results (classification) on unseen test data using 4 year
 ('XGBClassifier', 0.5274430345331051)<BR>
 ('LinearSVC', 0.526926169397467)<BR>
 ('BernoulliNB', 0.5263609141082636)<BR>
-('BinaryLogitBoost', 0.5171396629815084)
+('BinaryLogitBoost', 0.5171396629815084)<BR>
 ('GaussianNB', 0.5140903999668127)<BR>
 ('BaggingClassifier', 0.5044507753853887)<BR>
 ('DecisionTreeClassifier', 0.4989915412173202)<BR>
