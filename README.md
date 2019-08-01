@@ -476,6 +476,40 @@ http://sentdex.com<BR>
 https://psychsignal.com/<BR>
 </li>
 <BR>
+<LI><B>Reinforcement Learning (RL) Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
+Coach: <a href='https://github.com/NervanaSystems/coach'>https://github.com/NervanaSystems/coach</a><BR>
+Ray: <a href='https://ray.readthedocs.io/en/latest/rllib-algorithms.html'>https://ray.readthedocs.io/en/latest/rllib-algorithms.html</a><BR>
+RL Kit: <a href='https://github.com/vitchyr/rlkit'>https://github.com/vitchyr/rlkit</a><BR>
+MediPixel:  <a href='https://github.com/medipixel/rl_algorithms'>https://github.com/medipixel/rl_algorithms</a> - For TD3 and Rainbow IQN<BR>
+PARL: <a href='https://github.com/PaddlePaddle/PARL'>https://github.com/PaddlePaddle/PARL</a> - Parallel versions of algos<BR>
+<BR>
+Meta Learning for RL:<BR>
+<a href='https://github.com/tristandeleu/pytorch-maml-rl'>https://github.com/tristandeleu/pytorch-maml-rl</a>  <BR>
+<a href='https://github.com/navneet-nmk/Hierarchical-Meta-Reinforcement-Learning'>https://github.com/navneet-nmk/Hierarchical-Meta-Reinforcement-Learning</a><BR>
+<a href='https://github.com/quantumiracle/Benchmark-Efficient-Reinforcement-Learning-with-Demonstrations/tree/master/MAML'>https://github.com/quantumiracle/Benchmark-Efficient-Reinforcement-Learning-with-Demonstrations/tree/master/MAML</a><BR>
+Reptile for RL (maybe?): <a href='https://github.com/alok/rl_implementations/tree/master/reptile'>https://github.com/alok/rl_implementations/tree/master/reptile</a><BR>
+<BR>
+Evolution-Guided Policy Gradient in Reinforcement Learning:  Code: <a href='https://github.com/ShawK91/erl_paper_nips18'>https://github.com/ShawK91/erl_paper_nips18</a>  Paper: <a href='https://arxiv.org/abs/1805.07917'>https://arxiv.org/abs/1805.07917</a><BR>
+Tsallis: Code: <a href='https://github.com/kyungjaelee/tsallis_actor_critic_mujoco'>https://github.com/kyungjaelee/tsallis_actor_critic_mujoco</a>  Paper: <a href='https://arxiv.org/abs/1902.00137'>https://arxiv.org/abs/1902.00137</a><BR>
+<BR>
+Some unusual RL Algos: <BR>
+<a href='https://github.com/WilsonWangTHU/mbbl'>https://github.com/WilsonWangTHU/mbbl</a><BR>
+and<BR>
+<a href='https://github.com/dennybritz/reinforcement-learning'>https://github.com/dennybritz/reinforcement-learning</a><BR>
+<BR>
+Has good Tensorflow versions of RL agents:  <a href='https://github.com/tensorflow/agents'>https://github.com/tensorflow/agents</a><BR>
+Uber Research Programs:  <a href='https://github.com/uber-research'>https://github.com/uber-research</a><BR>
+Selective memory: <a href='https://github.com/FitMachineLearning/FitML/tree/master/SelectiveMemory'>https://github.com/FitMachineLearning/FitML/tree/master/SelectiveMemory</a><BR>
+Random Network Distillation: <a href='https://github.com/search?q=Random+Network+Distillation'>https://github.com/search?q=Random+Network+Distillation</a><BR>
+RL Graph (uses Ray): <a href='https://github.com/rlgraph/rlgraph'>https://github.com/rlgraph/rlgraph</a><BR>
+Huskarl:  <a href='https://github.com/danaugrs/huskarl'>https://github.com/danaugrs/huskarl</a><BR>
+<BR>
+Also see these RL trading frameworks:<BR>
+<a href='https://github.com/notadamking/tensortrade'>https://github.com/notadamking/tensortrade</a><BR>
+<a href='https://medium.com/@kevinhill_96608/how-to-create-a-concurrent-and-parallel-stochastic-reinforcement-learning-environment-for-crypto-3756d78b7a8e'>https://medium.com/@kevinhill_96608/how-to-create-a-concurrent-and-parallel-stochastic-reinforcement-learning-environment-for-crypto-3756d78b7a8e</a><BR>
+<a href='https://github.com/Kismuz/btgym'>https://github.com/Kismuz/btgym</a><BR>
+</li>
+<BR>
 <LI><B>Misc.:</B><BR>
 <a href='https://github.com/Luolc/AdaBound'>AdaBound (PyTorch) optimizer</a> - Like Adam<BR>
 </li>
