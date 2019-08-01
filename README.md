@@ -29,7 +29,7 @@ There are 2 main ways to improve our existing ML trading algorithm:
 <UL>
 <LI>Backtester with stock, FX, and crypto data.</LI>
 <LI>100+ indicators from TA-Lib (ta-lib.org) plus some we created ourselves, added as features. Also various time series features such as ARIMA, SARIMA, ARIMAX, and SARIMAX.</LI>
-<LI>Optimization of the 40,000+ indicator paramater combinations, using feature reduction to find which ones work best.</LI>
+<LI>Optimization of the 11,000+ indicator paramater combinations, using feature reduction to find which ones work best.</LI>
 <LI>Over 60 classification and regression algorithms and neural networks using our custom made AutoML program.</LI>
 <LI>ML model parameter optimization using Skopt, genetic algorithm, or exhaustive search.
 <LI>Voting ensembles and stacking of algorithms to acheive higher accuracy.</LI>
@@ -476,7 +476,7 @@ http://sentdex.com<BR>
 https://psychsignal.com/<BR>
 </li>
 <BR>
-<LI><B>Reinforcement Learning (RL)</B><BR>
+<LI><B>Reinforcement Learning (RL):</B><BR>
 Additional Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
 Coach: <a href='https://github.com/NervanaSystems/coach'>https://github.com/NervanaSystems/coach</a><BR>
 Ray: <a href='https://ray.readthedocs.io/en/latest/rllib-algorithms.html'>https://ray.readthedocs.io/en/latest/rllib-algorithms.html</a><BR>
