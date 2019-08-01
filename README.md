@@ -471,6 +471,11 @@ https://github.com/Sadden/PredictStock/blob/master/PredictBasedOnNews.ipynb<BR>
 Bert for Sentiment analysis: https://github.com/search?q=bert+sentiment+analysis&type=Repositories<BR>
 ERNIE: https://github.com/PaddlePaddle/ERNIE<BR>
 XLNet: https://github.com/zihangdai/xlnet<BR>
+<BR>
+Sources of news and sentiment:<BR>
+https://api.tiingo.com/about/pricing<BR>
+https://newsapi.org<BR>
+https://rapidapi.com/Nuzzel/api/news-search/pricing  <BR>
 https://www.decisionforest.com<BR>
 http://sentdex.com<BR>
 https://psychsignal.com/<BR>
