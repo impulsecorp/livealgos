@@ -115,15 +115,6 @@ Other DTW programs:<BR>
 <a href='https://github.com/fpetitjean/DBA'>https://github.com/fpetitjean/DBA</a><BR>
 </LI>
 <BR>
-<LI><B>Instead of using SelectFromModel for feature selection, use:</B><BR>
-A) MLFeatureSelection - <a href='https://github.com/duxuhao/Feature-Selection' target = "new">https://github.com/duxuhao/Feature-Selection</a><BR>
-B) Teacher-Student feature selection in Keras - <a href='https://github.com/alimirzaei/TSFS/blob/master/RRFS.py' target = "new">https://github.com/alimirzaei/TSFS/blob/master/RRFS.py</a><BR>
-C) FeatureSelectionGA  - <a href='https://github.com/kaushalshetty/FeatureSelectionGA' target = "new">https://github.com/kaushalshetty/FeatureSelectionGA</a> or SKlearn-Genetic - <a href='https://github.com/manuel-calzolari/sklearn-genetic' target = "new">https://github.com/manuel-calzolari/sklearn-genetic</a><BR>
-D) Weighted nearest neighbors feature selection  - <a href='https://github.com/bugatap/WkNN-FS' target = "new">https://github.com/bugatap/WkNN-FS</a><BR>
-E) Similarity-based Dimensionality Reductio - <a href='https://github.com/passalis/sef' target="new">https://github.com/passalis/sef</a>. Here's how to use it for classification: https://github.com/passalis/bof_eeg (this is based on a slightly different repo).<BR>
-
-</LI>
-<BR>
 <LI><B>Try these probabilistic modeling programs:</B><BR>
 A) <a href='https://github.com/tensorflow/probability' target = "new">https://github.com/tensorflow/probability</a>  (Includes Edward)<BR>
 B) <a href='http://pyro.ai/' target = "new">http://pyro.ai/</a> (From Uber Labs)<BR>
