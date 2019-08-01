@@ -476,6 +476,7 @@ Sources of news and sentiment:<BR>
 https://api.tiingo.com/about/pricing<BR>
 https://newsapi.org<BR>
 https://rapidapi.com/Nuzzel/api/news-search/pricing  <BR>
+https://cloud.benzinga.com/cloud-product/bz-newswires/<BR>
 https://www.decisionforest.com<BR>
 http://sentdex.com<BR>
 https://psychsignal.com/<BR>
