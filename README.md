@@ -476,7 +476,8 @@ http://sentdex.com<BR>
 https://psychsignal.com/<BR>
 </li>
 <BR>
-<LI><B>Reinforcement Learning (RL) Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
+<LI><B>Reinforcement Learning (RL)</B><BR>
+Additional Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
 Coach: <a href='https://github.com/NervanaSystems/coach'>https://github.com/NervanaSystems/coach</a><BR>
 Ray: <a href='https://ray.readthedocs.io/en/latest/rllib-algorithms.html'>https://ray.readthedocs.io/en/latest/rllib-algorithms.html</a><BR>
 RL Kit: <a href='https://github.com/vitchyr/rlkit'>https://github.com/vitchyr/rlkit</a><BR>
