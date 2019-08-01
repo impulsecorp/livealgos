@@ -470,19 +470,19 @@ There are also these programs for it:<BR>
 </li>
 <BR>
 <LI><B>News Trading - Sentiment Analysis:</B><BR>
-Kaggle Two Sigma: https://github.com/silvernine209/stock_price_prediction
-Sentiment Analysis for Event-Driven Stock Prediction - https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction
-Stocksight - https://github.com/shirosaidev/stocksight
-https://github.com/Avhirup/Stock-Market-Prediction-Challenge/blob/master/Predicting%20Stock%20Prices%20Challenge.ipynb
-https://www.dlology.com/blog/simple-stock-sentiment-analysis-with-news-data-in-keras/
-https://github.com/jasonyip184/StockSentimentTrading/blob/master/Stock%20Sentiment%20Algo%20Trading.ipynb
-https://github.com/Sadden/PredictStock/blob/master/PredictBasedOnNews.ipynb
-Bert for Sentiment analysis: https://github.com/search?q=bert+sentiment+analysis&type=Repositories
-ERNIE: https://github.com/PaddlePaddle/ERNIE
-XLNet: https://github.com/zihangdai/xlnet
-https://www.decisionforest.com
-http://sentdex.com
-https://psychsignal.com/
+Kaggle Two Sigma: https://github.com/silvernine209/stock_price_prediction<BR>
+Sentiment Analysis for Event-Driven Stock Prediction - https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction<BR>
+Stocksight - https://github.com/shirosaidev/stocksight<BR>
+https://github.com/Avhirup/Stock-Market-Prediction-Challenge/blob/master/Predicting%20Stock%20Prices%20Challenge.ipynb<BR>
+https://www.dlology.com/blog/simple-stock-sentiment-analysis-with-news-data-in-keras/<BR>
+https://github.com/jasonyip184/StockSentimentTrading/blob/master/Stock%20Sentiment%20Algo%20Trading.ipynb<BR>
+https://github.com/Sadden/PredictStock/blob/master/PredictBasedOnNews.ipynb<BR>
+Bert for Sentiment analysis: https://github.com/search?q=bert+sentiment+analysis&type=Repositories<BR>
+ERNIE: https://github.com/PaddlePaddle/ERNIE<BR>
+XLNet: https://github.com/zihangdai/xlnet<BR>
+https://www.decisionforest.com<BR>
+http://sentdex.com<BR>
+https://psychsignal.com/<BR>
 </li>
 <BR>
 <LI><B>Misc.:</B><BR>
