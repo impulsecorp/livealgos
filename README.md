@@ -78,6 +78,22 @@ And here's the backtest results (exit trade at the end of each 1 hour bar, no co
 <p align="left">
 <img src="eurusd_backtest.png" alt="FX backtest results">
 </P>
+<BR>
+<B>Program Requirements:</B><BR>
+Linux Server (we use Ubuntu 16.04)<BR>
+Python 3.6<BR>
+There are many other smaller packages that you will need also, see the requirements.txt file.<BR>
+<BR>
+Our Programs Consists of 4 Main Python Notebooks:<BR>
+<BR>
+<B>Data Handling and Feature Generation</B> - datamodel_dev.ipynb - Loads the raw price data, preprocesses it (drop NANs, normalization, etc.), balances the dataset (equal number of ups and downs), and adds new features (such as moving average, Bollinger Bands, time lags etc.).<BR>
+<BR>
+<B>Feature Selection</B> - Uses dimensionality reduction (such as PCA) to find the most useful of the 11000+ features from the data file. This helps the ML learn better by letting it focus on what is really important, instead of distracting it with useless noise.  And, it makes everything run much faster to use less data. We run over 20 different feature selection programs and then use XGBoost on the datasets they generate, to see which has the highest accuracy. This narrows it down from using over 11,000 features to only the top 100.<BR>
+<BR>
+<B>Algorithm Selection</B> - Test 60 different ML algorithms on the data to see which one gives the highest accuracy.<BR>
+<BR>
+<B>HPO and Ensembles</B> - Optimizes the parameters of the ML model (such as XGBoost) to increase accuracy. It then runs it 100 times to create an ensemble model, giving it more stability.<BR>
+<BR>
 
 <h2>Roadmap For The Future</h2>     
 <br>
