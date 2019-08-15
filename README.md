@@ -213,12 +213,13 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 55. Use automatic feature engineering using GANs: <a href='https://github.com/hamaadshah/gan_public/blob/master/Python/gan.ipynb' target="new">https://github.com/hamaadshah/gan_public/blob/master/Python/gan.ipynb</a><BR>
 56. Feature Engineering Wrapper (Few): <a href='https://github.com/lacava/few' target="new">https://github.com/lacava/few</a><BR>
 57. LibFM (in Keras) - https://github.com/jfpuget/LibFM_in_Keras - He used this to generate new features in a Kaggle compeition.<BR>
-58. Metric Learning - https://github.com/metric-learn/metric-learn. Metric Learning is explained at http://metric-learn.github.io/metric-learn/introduction.html . Also, the code for many more advanced methods are listed at https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning .<BR>
+58. Metric Learning - https://github.com/scikit-learn-contrib/metric-learn. Metric Learning is explained at http://metric-learn.github.io/metric-learn/introduction.html . Also, the code for many more advanced methods are listed at https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning .<BR>
 59. knnFeat - https://github.com/upura/knnFeat and https://github.com/momijiame/gokinjo - Knn feature extraction.<BR>
 60. Surrogate Assisted Feature Extraction (SAFE) - https://github.com/ModelOriented/SAFE<BR>
 61. Feature Stuff:  https://github.com/hiflyin/Feature-Stuff<BR>
 62. GAN-Keras: https://github.com/hamaadshah/gan_keras - Automatic feature engineering using Generative Adversarial Networks.<BR>
 63. AutoFeat: https://github.com/cod3licious/autofeat - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
+  
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
 </LI>
@@ -240,7 +241,10 @@ K) RL Trading Bot: <a href='https://github.com/ai-portfolio/deep_reinforcement_l
 L) RL Portfolio Management - <a href='https://github.com/ZhengyaoJiang/PGPortfolio' target = "new">https://github.com/ZhengyaoJiang/PGPortfolio</a> - The paper they reference is really good.<BR>
 M) Deep RL Trading - <a href='https://github.com/golsun/deep-RL-trading' target = "new">https://github.com/golsun/deep-RL-trading</a> - The paper that goes with this has some great info about using a CNN vs RNN.<BR>
 N) RL Options Trading - <a href='https://github.com/randli/Optimal-Trading-Price' target = "new">https://github.com/randli/Optimal-Trading-Price</a> - They did not upload their code, but their 1 page PDF summary paper is interesting.<BR>
-O) Personae: <a href='https://github.com/Ceruleanacg/Personae' target = "new">https://github.com/Ceruleanacg/Personae</a>     <BR>
+O) Personae: <a href='https://github.com/Ceruleanacg/Personae' target = "new">https://github.com/Ceruleanacg/Personae</a>     
+P) Free-Lunch Saliency via Attention in Atari Agents - https://github.com/dniku/free-lunch-saliency  
+Q) RL Algos - https://github.com/xlnwel/model-free-algorithms
+<BR>
 </LI>  
 <BR>
 <LI><B>Add all the indicators from these libraries that we don't already have from TA-Lib:</B><BR>
@@ -455,6 +459,14 @@ Deep Generative Models:  <a href='https://github.com/AtreyaSh/deep-generative-mo
 PyGAM: <a href='https://github.com/dswah/pyGAM'>https://github.com/dswah/pyGAM</a> - Generalized Additive Models in Python.<BR>
 ANFIS - <a href='https://github.com/twmeggs/anfis'>https://github.com/twmeggs/anfis</a> - Adaptive neuro fuzzy inference system<BR>
 Particle Swarm Optimization:  <a href='https://github.com/ljvmiranda921/pyswarms'>https://github.com/ljvmiranda921/pyswarms</a><BR>
+<BR>
+Various Keras NNs for stocks: <BR>
+Deep CNN: https://github.com/rosdyana/Going-Deeper-with-Convolutional-Neural-Network-for-Stock-Market-Prediction<BR>
+Meta learning - https://github.com/seba-1511/pytorch-hacks - MAML, FOMAML, MetaSGD<BR>
+Contextual Bandits - https://devpost.com/software/unsupervised-representation-learning-for-contextual-bandits<BR>
+TorchBrain - https://github.com/shoaibahmed/torchbrain - Spiking Neural Networks.<BR>
+<BR> 
+Continual Learning: https://github.com/GMvandeVen/continual-learning<BR>
 </li>
 <BR>
 <LI><B>Try one or both of these 2 programs for dealing with outliers/anomalies:</B><BR>
