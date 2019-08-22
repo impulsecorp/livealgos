@@ -548,6 +548,10 @@ Also see these RL trading frameworks:<BR>
 <LI><B>Misc.:</B><BR>
 <a href='https://github.com/Luolc/AdaBound'>AdaBound (PyTorch) optimizer</a> - Like Adam<BR>
 <a href='https://www.quantrocket.com/blog/business-day-forex-patterns/'>Daily Forex Patterns</a><BR>
+<a href='https://github.com/dmackenz/Keras-Neuro-Evolution-Trading-Bot-Skeleton'>Neuro-Evolution Trading Bot (in Keras)</a><BR>
+
+
+  
 
 
 </li>
