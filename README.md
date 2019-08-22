@@ -547,6 +547,9 @@ Also see these RL trading frameworks:<BR>
 <BR>
 <LI><B>Misc.:</B><BR>
 <a href='https://github.com/Luolc/AdaBound'>AdaBound (PyTorch) optimizer</a> - Like Adam<BR>
+<a href='https://www.quantrocket.com/blog/business-day-forex-patterns/'>Daily Forex Patterns</a><BR>
+
+
 </li>
 <BR>
 
