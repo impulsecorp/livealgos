@@ -531,6 +531,7 @@ Also see these RL trading frameworks:<BR>
 <a href='https://github.com/SC4RECOIN/NeuroEvolution-BTC-Trader'>NeuroEvolution Trader (Tensorflow)</a><BR>
 Somebody in the RL Trader discussion group suggested using https://github.com/vaexio/vaex
 Also, there is this:  Pystore - Fast Data Store for Pandas Time-Series Data - https://medium.com/@aroussi/fast-data-store-for-pandas-time-series-data-using-pystore-89d9caeef4e2<BR>
+EA Trader: https://github.com/EA31337/EA31337 - Open source FX trading robot for MT4/MT5<BR>
 
 </li>
 <BR>
