@@ -1,4 +1,5 @@
-<h2 align="center">The World's First Live Open-Source Trading Algorithm</h2>    
+<h2 align="center">The World's First Live Open-Source Trading Algorithm
+[Note: This Site Is Not Functional Yet]</h2>    
 
 <p align="center">
 <a href="https://livealgos.com"><img src="original_image.jpg" alt="LiveAlgos.com Logo" Height="200" width="350"></a>
@@ -41,42 +42,10 @@ There are 2 main ways to improve our existing ML trading algorithm:
 </UL>
 
 Below are the accuracy results (classification) on unseen test data using 4 years of hourly EURUSD data, with a 75%/25% train/test split:<BR>
-('GradientBoostingClassifier', 0.5296564758688427)<BR>
-('DefragTreesClassifier', 0.5285995785545385)<BR>
-('AdaBoostClassifier', 0.5284508885900469)<BR>
-('LogisticRegression', 0.5275165208048028)<BR>
-('XGBClassifier', 0.5274430345331051)<BR>
-('LinearSVC', 0.526926169397467)<BR>
-('BernoulliNB', 0.5263609141082636)<BR>
-('BinaryLogitBoost', 0.5171396629815084)<BR>
-('GaussianNB', 0.5140903999668127)<BR>
-('BaggingClassifier', 0.5044507753853887)<BR>
-('DecisionTreeClassifier', 0.4989915412173202)<BR>
-('ExtraTreesClassifier', 0.49980348832413685)<BR>
-('RandomForestClassifier', 0.5082132821719233)<BR>
-('KNeighborsClassifier', 0.5005655757938446)<BR>
-('MLPClassifier', 0.5107957755311275)<BR>
-('SGDClassifier', 0.5160573853279747)<BR>
-('ArcX4', 0.5077704717501768)<BR>
-('IsolationForest', 0.44828611654927536)<BR>
-('PassiveAggressiveClassifier', 0.4980822393139217)<BR>
-('KmeansClustering', 0.5108936443445867)<BR>
-('QuadraticDiscriminantAnalysis', 0.4976636723470168)<BR>
-('ClassSwitching', 0.5058771117476321)<BR>
-('BinaryVadaboost', 0.5002951908218114)<BR>
-('GentleBoostClassifier', 0.5)<BR>
-('LogitBoostClassifier', 0.3999262355544627)<BR>
-('RidgeClassifier', 0.5271228322547648)<BR>
-('CatBoostClassifier', 0.526828191733375)<BR>
-('InfiniteBoostingWithHoldoutCLF', 0.5)<BR>
-('InfiniteBoostingCLF', 0.49992623555446275)<BR>
-('ResearchGradientBoostingBaseCLF', 0.5)<BR>
-('mlxtendPerceptron', 0.5057056357173275)<BR>
-('LightGBM', 0.5)<BR>
-<BR>
+[coming soon]<BR>
 And here's the backtest results (exit trade at the end of each 1 hour bar, no commissions/slippage) on the unseen test set, using XGBoost:<BR>
 <p align="left">
-<img src="eurusd_backtest.png" alt="FX backtest results">
+[coming soon]
 </P>
 <BR>
 <B>Program Requirements:</B><BR>
