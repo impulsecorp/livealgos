@@ -63,7 +63,8 @@ Our Programs Consists of 4 Main Python Notebooks:<BR>
 <BR>
 <B>HPO and Ensembles</B> - Optimizes the parameters of the ML model (such as XGBoost) to increase accuracy. It then runs it 100 times to create an ensemble model, giving it more stability.<BR>
 <BR>
-
+Note: The RL programming was done by Peter Chervenski (https://www.facebook.com/l.s.d.records), with assistance from Eric Borgos. The "Roadmap For The Future" part below is by Eric Borgos.
+  
 <h2>Roadmap For The Future</h2>     
 <br>
                                 Suggested improvements for users to try:<BR><BR>
