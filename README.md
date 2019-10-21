@@ -517,6 +517,7 @@ https://psychsignal.com/<BR>
 TensorTrade: https://github.com/notadamking/tensortrade<BR>
 RL Trading - https://www.reddit.com/r/algotrading/comments/cjuzh7/how_to_create_a_concurrent_stochastic/and more comments at 
 https://www.reddit.com/r/reinforcementlearning/comments/cjutsr/how_to_create_a_concurrent_stochastic/<BR>
+RL Trading with Ray: https://github.com/Draichi/cryptocurrency_algotrading<BR>
 Additional Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
 Coach: <a href='https://github.com/NervanaSystems/coach'>https://github.com/NervanaSystems/coach</a><BR>
 Ray: <a href='https://ray.readthedocs.io/en/latest/rllib-algorithms.html'>https://ray.readthedocs.io/en/latest/rllib-algorithms.html</a><BR>
