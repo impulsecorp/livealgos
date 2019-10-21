@@ -116,6 +116,7 @@ Stumpy: <a href='https://github.com/TDAmeritrade/stumpy' target = "new">https://
 Feets: <a href='https://github.com/carpyncho/feets' target = "new">https://github.com/carpyncho/feets</a><BR>
 Thalesians' Time Series Analysis (TSA) - <a href='https://github.com/thalesians/tsa' target = "new">https://github.com/thalesians/tsa</a> (notebooks at <a href='https://github.com/thalesians/tsa/tree/master/src/jupyter/python' target = "new">https://github.com/thalesians/tsa/tree/master/src/jupyter/python</a>) - Made specifically for stock time series analysis.<BR>
 SLearn: <a href='https://github.com/mzoll/slearn' target="new">https://github.com/mzoll/slearn</a><BR>
+TimeNet: <a href='https://github.com/kirarenctaon/timenet' target="new">https://github.com/kirarenctaon/timenet</a><BR>  
 
 Also:<BR>
 A) There is good code/info for ARCH, GARCH, and EGARCH:  <a href='https://0xboz.github.io/blog/understand-and-model-cryptocurrencies-volatility-using-garch-variants/'>https://0xboz.github.io/blog/understand-and-model-cryptocurrencies-volatility-using-garch-variants/</a><BR>
@@ -219,6 +220,8 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 61. Feature Stuff:  https://github.com/hiflyin/Feature-Stuff<BR>
 62. GAN-Keras: https://github.com/hamaadshah/gan_keras - Automatic feature engineering using Generative Adversarial Networks.<BR>
 63. AutoFeat: https://github.com/cod3licious/autofeat - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
+64. Various Keras NNs for stocks: https://github.com/rosdyana/Going-Deeper-with-Convolutional-Neural-Network-for-Stock-Market-Prediction<BR>
+65. TabNet: https://github.com/titu1994/tf-TabNet <BR>
   
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
@@ -511,6 +514,9 @@ https://psychsignal.com/<BR>
 </li>
 <BR>
 <LI><B>Reinforcement Learning (RL):</B><BR>
+TensorTrade: https://github.com/notadamking/tensortrade<BR>
+RL Trading - https://www.reddit.com/r/algotrading/comments/cjuzh7/how_to_create_a_concurrent_stochastic/and more comments at 
+https://www.reddit.com/r/reinforcementlearning/comments/cjutsr/how_to_create_a_concurrent_stochastic/<BR>
 Additional Frameworks To Add (we are already using Stable Baselines at <a href='https://github.com/hill-a/stable-baselines'>https://github.com/hill-a/stable-baselines</a>):</B><BR>
 Coach: <a href='https://github.com/NervanaSystems/coach'>https://github.com/NervanaSystems/coach</a><BR>
 Ray: <a href='https://ray.readthedocs.io/en/latest/rllib-algorithms.html'>https://ray.readthedocs.io/en/latest/rllib-algorithms.html</a><BR>
@@ -551,7 +557,8 @@ Also see these RL trading frameworks:<BR>
 <a href='https://github.com/dmackenz/Keras-Neuro-Evolution-Trading-Bot-Skeleton'>Neuro-Evolution Trading Bot (in Keras)</a><BR>
 <a href='https://github.com/awslabs/gluon-ts/tree/master/evaluations'>Gluon Time Series</a><BR>
 <a href='https://github.com/SC4RECOIN/NeuroEvolution-BTC-Trader'>NeuroEvolution Trader (Tensorflow)</a><BR>
-
+Somebody in the RL Trader discussion group suggested using https://github.com/vaexio/vaex
+Also, there is this:  Pystore - Fast Data Store for Pandas Time-Series Data - https://medium.com/@aroussi/fast-data-store-for-pandas-time-series-data-using-pystore-89d9caeef4e2<BR>
 
 </li>
 <BR>
