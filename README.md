@@ -1,4 +1,4 @@
-<h2 align="center">The World's First Live Open-Source Trading Algorithm
+<h2 align="center">The World's First Live Open-Source Trading Algorithm<BR>
 [Note: This Site Is Not Functional Yet]</h2>    
 
 <p align="center">
