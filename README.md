@@ -190,7 +190,8 @@ D) <a href='https://github.com/kylejusticemagnuson/pyti' target = "new">https://
 62. GAN-Keras: https://github.com/hamaadshah/gan_keras - Automatic feature engineering using Generative Adversarial Networks.<BR>
 63. AutoFeat: https://github.com/cod3licious/autofeat - Linear Regression Model with Automated Feature Engineering and Selection Capabilities.<BR> 
 64. Various Keras NNs for stocks: https://github.com/rosdyana/Going-Deeper-with-Convolutional-Neural-Network-for-Stock-Market-Prediction<BR>
-65. TabNet: https://github.com/titu1994/tf-TabNet <BR>
+65. Temporal Pattern Attention for Multivariate Time Series Forecasting - https://github.com/gantheory/TPA-LSTM  
+66. TabNet: https://github.com/titu1994/tf-TabNet <BR>
   
 <BR>
 Also, see this big study which shows the simple models such as ARIMA are better than NNs for time series prediction:  <a href='https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/' target = "new">https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/</a><BR>
