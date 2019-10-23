@@ -87,6 +87,7 @@ Feets: <a href='https://github.com/carpyncho/feets' target = "new">https://githu
 Thalesians' Time Series Analysis (TSA) - <a href='https://github.com/thalesians/tsa' target = "new">https://github.com/thalesians/tsa</a> (notebooks at <a href='https://github.com/thalesians/tsa/tree/master/src/jupyter/python' target = "new">https://github.com/thalesians/tsa/tree/master/src/jupyter/python</a>) - Made specifically for stock time series analysis.<BR>
 SLearn: <a href='https://github.com/mzoll/slearn' target="new">https://github.com/mzoll/slearn</a><BR>
 TimeNet: <a href='https://github.com/kirarenctaon/timenet' target="new">https://github.com/kirarenctaon/timenet</a><BR>  
+Signature Transforms: https://github.com/patrick-kidger/signatory<BR>
 
 Also:<BR>
 A) There is good code/info for ARCH, GARCH, and EGARCH:  <a href='https://0xboz.github.io/blog/understand-and-model-cryptocurrencies-volatility-using-garch-variants/'>https://0xboz.github.io/blog/understand-and-model-cryptocurrencies-volatility-using-garch-variants/</a><BR>
